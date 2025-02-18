@@ -20,9 +20,9 @@ No requiere instalación. Solo abre `index.html` en tu navegador.
 
 ### 2️⃣ **Pasos sencillos:**
 1. **Ingresa un nombre** en el campo de texto ✍️. 
-2. Haz clic en **"Agregar"** ➕ para incluirlo en la lista.  
+2. Haz clic en **"Añadir"** ➕ para incluirlo en la lista.  
 3. Repite hasta completar la lista de participantes 🎊. 
-4. ¡Presiona **"Sorteo"** 🎉 y descubre el **Amigo Secreto**!  
+4. ¡Presiona **"Sortear amigo"** 🎉 y descubre el **Amigo Secreto**!  
 
 ---
 
@@ -47,3 +47,6 @@ Este proyecto es de código abierto bajo la licencia **MIT** 📜. ¡Usa, modifi
 ---
 
 ¡Gracias por usar Amigo Secreto! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme. 
+
+⌨️ con ❤️ por [Heriberto Turpo](https://github.com/herbertturpo) 😊
+
