@@ -15,6 +15,10 @@ Una aplicación sencilla y rápida para organizar tu sorteo de Amigo Secreto en 
 
 ## 📌 **Cómo Usarlo**
 
+¡Aprende a usar Amigo Secreto Mágico en segundos con este sencillo tutorial!
+
+![Tutorial Amigo Secreto Mágico](assets/tutorial/tutorial_amigo_secreto.gif)
+
 ### 1️⃣ **Abrir la aplicación**
 No requiere instalación. Solo abre `index.html` en tu navegador.
 
